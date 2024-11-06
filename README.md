@@ -1,5 +1,4 @@
-# Project Title
-File-Parsing-and-Report-Generation
+#File-Parsing-and-Report-Generation
 
 The Log Parser Project is designed to automate the analysis of server logs, focusing on identifying and counting occurrences of error and warning messages. The result is a detailed report in CSV format, providing system administrators and developers with quick insights into server issues.
 
