@@ -7,7 +7,7 @@ Python: 3.x, Libraries: re, csv, collections.Counter
 # Setup Instructions
 ### 1. Clone the repository
 
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/saiharshitha82/File-Parsing-and-Report-Generation.git
   cd your-repository
 
 ### 2. Install the required libraries
